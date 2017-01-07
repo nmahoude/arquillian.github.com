@@ -36,7 +36,7 @@ Ce guide suppose que vous disposiez déjà de Maven,soit en ligne de commande ou
 
 h3. Créer un nouveau projet
 
-Nous nous recommandons deux façons pour créer votre nouveau projet Maven:
+Nous vous recommandons deux façons pour créer votre nouveau projet Maven:
 
 # "Générer un projet à partir d'un archétype Maven":#generate_project_from_archetype
 # "Créer et personnaliser un projet en utilisant JBoss Forge":#create_project_using_forge
